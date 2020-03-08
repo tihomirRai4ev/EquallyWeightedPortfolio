@@ -2,6 +2,11 @@ package com.moveag.ewpv.model;
 
 import java.util.List;
 
+/**
+ * TODO use/import Lombok
+ *
+ * @author traychev
+ */
 public class Request {
 
   private List<List<Double>> prices;
